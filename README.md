@@ -14,7 +14,7 @@ interface to search for any IP address or domain and display key information.
 ## Technologies Used
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and responsive design.
-- **JavaScript**: For interactivity and API integration.
+- **TypeScrips**: For interactivity and API integration.
 - **LeafletJS**: For rendering interactive maps.
 - **IP Geolocation API by IPify**: For fetching IP address data.
 
@@ -24,4 +24,4 @@ interface to search for any IP address or domain and display key information.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://main--ip-task-tracker.netlify.app/](https://main--ip-task-tracker.netlify.app/)
