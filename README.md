@@ -14,7 +14,7 @@ interface to search for any IP address or domain and display key information.
 ## Technologies Used
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and responsive design.
-- **TypeScrips**: For interactivity and API integration.
+- **TypeScript**: For interactivity and API integration.
 - **LeafletJS**: For rendering interactive maps.
 - **IP Geolocation API by IPify**: For fetching IP address data.
 
